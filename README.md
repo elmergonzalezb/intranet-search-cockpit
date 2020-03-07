@@ -1,6 +1,6 @@
 # intranet-search-cockpit
 
-Intranet search cockpit. Sorry, coperate Intranet search is not plug-and-play. You need a cockpit.
+Intranet search cockpit. Coperate Intranet search is not plug-and-play.
 
 ## Introducion
 
