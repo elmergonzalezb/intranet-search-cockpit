@@ -24,6 +24,8 @@ Internet search is easy: Just use ecosia or bing. But Intranet search is .... (p
 
 ### Indexing (low-level) (Option1)
 
+* https://lucene.apache.org/solr/
+* https://www.elastic.co/de/elasticsearch/
 
 ### High level
 
