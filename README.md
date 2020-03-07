@@ -39,8 +39,8 @@ Internet search is easy: Just use ecosia or bing. But Intranet search is .... (p
 Examples:
 
 * [github](//github.com)
-* [confluence](///www.atlassian.com/software/confluence)
-* [Staffbase]](//staffbase.com)
+* [confluence](//www.atlassian.com/software/confluence)
+* [Staffbase](//staffbase.com)
 * [Stackoverflow Team](https://stackoverflow.com/teams)
 
 
