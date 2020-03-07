@@ -58,7 +58,7 @@ Examples:
 Good search results don't fall from the sky. You need a way to point the non-intelligent indexers into the right direction.
 
 * Configure Content Repositories. Store credentials. GUI to add new repos
-* A way to add hints to the non-intelligent indexers. I guess this is needed, since there are not enough hyperlinks between the documents to get a solid [PangeRank](https://en.wikipedia.org/wiki/PageRank)
+* A way to add hints to the non-intelligent indexers. I guess this is needed, since there are not enough hyperlinks between the documents to get a solid [PageRank](https://en.wikipedia.org/wiki/PageRank)
 
 ## Related
 
