@@ -52,6 +52,14 @@ Examples:
 
 * Extend knowledge of a content repository. Example: In the coperate intranet the definition of [Scrum Master at Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development)#Scrum_master) can get extended by local annotations. These local annotations provide additional details how to apply the general (world wide) knowledge to the particular ??? inside the company.
 
+
+## Cockpit
+
+Good search results don't fall from the sky. You need a way to point the non-intelligent indexers into the right direction.
+
+* Configure Content Repositories. Store credentials. GUI to add new repos
+* A way to add hints to the non-intelligent indexers. I guess this is needed, since there are not enough hyperlinks between the documents to get a solid [PangeRank](https://en.wikipedia.org/wiki/PageRank)
+
 ## Related
 
 * [Content Management Interoperability Services](https://en.wikipedia.org/wiki/Content_Management_Interoperability_Services) (looks dated: [Trend](https://trends.google.com/trends/explore?date=all&q=%2Fm%2F04lgyys))
