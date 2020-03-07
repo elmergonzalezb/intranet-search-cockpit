@@ -22,10 +22,11 @@ Internet search is easy: Just use ecosia or bing. But coperate Intranet search i
 
 ## Tools
 
-### Indexing (low-level) (Option1)
+### Indexing + DB (low-level) (Option1)
 
 * [solr](https://lucene.apache.org/solr/)
 * [elasticsearch](https://www.elastic.co/de/elasticsearch/)
+* [django fulltext](https://docs.djangoproject.com/en/3.0/ref/contrib/postgres/search/)
 
 [Trend comparing above tools](https://trends.google.com/trends/explore?date=all&q=%2Fm%2F02qd9s1,%2Fm%2F0h64sgb)
 
