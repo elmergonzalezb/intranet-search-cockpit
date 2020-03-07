@@ -9,7 +9,7 @@ Intranet search cockpit. Sorry, Intranet search is not plug-and-play. You need a
 [Intranet](https://en.wikipedia.org/wiki/Intranet): An intranet is a computer network for sharing information, collaboration tools, operational systems, and other computing services only within an organization, and to the exclusion of access by outsiders to the organization. The term is used in contrast to public networks, such as the Internet.
 
 
-In most intranets there are several content repositories.
+In most coperate intranets there are several content repositories.
 
 This has the drawback, that users don't have **one** search interface.
 
