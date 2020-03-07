@@ -53,6 +53,6 @@ Examples:
 
 ## Related
 
-* https://en.wikipedia.org/wiki/Content_Management_Interoperability_Services (looks dated: [Trend](https://trends.google.com/trends/explore?date=all&q=%2Fm%2F04lgyys))
+* [Content Management Interoperability Services](https://en.wikipedia.org/wiki/Content_Management_Interoperability_Services) (looks dated: [Trend](https://trends.google.com/trends/explore?date=all&q=%2Fm%2F04lgyys))
 
 
