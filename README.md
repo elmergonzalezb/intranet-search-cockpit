@@ -15,10 +15,23 @@ This has the drawback, that users don't have **one** search interface.
 
 Internet search is easy: Just use ecosia or bing. But Intranet search is .... (please send me your favorite term via mail: guettli.intranet-search-term@thomas-guettler.de)
 
+## Two Options
+
+* Option1: Constantly index the content repositories in background. The search gets executed on the own index.
+* Option2: Use the search API of the content repositories. No own index exists. The result of N systems gets displayed on one page.
+
 ## Tools
 
+### Indexing (low-level) (Option1)
+
+
+### High level
+
 * http://manifoldcf.apache.org/en_US/index.html#What+Is+Apache+ManifoldCF%3F
+* https://www.opensemanticsearch.org/
 
 ## Related
 
-* https://en.wikipedia.org/wiki/Content_Management_Interoperability_Services
+* https://en.wikipedia.org/wiki/Content_Management_Interoperability_Services (looks dated: [Trend](https://trends.google.com/trends/explore?date=all&q=%2Fm%2F04lgyys))
+
+
