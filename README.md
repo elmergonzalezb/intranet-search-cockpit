@@ -34,6 +34,17 @@ Internet search is easy: Just use ecosia or bing. But Intranet search is .... (p
 * http://manifoldcf.apache.org/en_US/index.html#What+Is+Apache+ManifoldCF%3F
 * https://www.opensemanticsearch.org/
 
+## List of Content Repositories
+
+Examples:
+
+* [github](//github.com)
+* [confluence](///www.atlassian.com/software/confluence)
+* [Staffbase]](//staffbase.com)
+* [Stackoverflow Team](https://stackoverflow.com/teams)
+
+
+
 ## Related
 
 * https://en.wikipedia.org/wiki/Content_Management_Interoperability_Services (looks dated: [Trend](https://trends.google.com/trends/explore?date=all&q=%2Fm%2F04lgyys))
