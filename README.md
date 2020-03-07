@@ -46,7 +46,7 @@ Examples:
 ## Goals
 
 * Provide **one** search interface for several content repos.
-* Every search should get logged. This allows to understand the employees needs. (Build-Measure-Learn feedback loop)
+* Every search should get logged. This allows to understand the employees needs and improve the search results in the future. (Build-Measure-Learn feedback loop)
 
 ## Stretch Goals
 
