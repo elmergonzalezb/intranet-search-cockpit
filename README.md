@@ -13,7 +13,7 @@ In most coperate intranets there are several content repositories.
 
 This has the drawback, that users don't have **one** search interface.
 
-Internet search is easy: Just use ecosia or bing. But Intranet search is .... (please send me your favorite term via mail: guettli.intranet-search-term@thomas-guettler.de)
+Internet search is easy: Just use ecosia or bing. But coperate Intranet search is .... (please send me your favorite term via mail: guettli.intranet-search-term@thomas-guettler.de)
 
 ## Two Options
 
