@@ -18,3 +18,7 @@ Internet search is easy: Just use ecosia or bing. But Intranet search is .... (p
 ## Tools
 
 * http://manifoldcf.apache.org/en_US/index.html#What+Is+Apache+ManifoldCF%3F
+
+## Related
+
+* https://en.wikipedia.org/wiki/Content_Management_Interoperability_Services
