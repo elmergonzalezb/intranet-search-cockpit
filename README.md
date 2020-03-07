@@ -27,6 +27,8 @@ Internet search is easy: Just use ecosia or bing. But Intranet search is .... (p
 * https://lucene.apache.org/solr/
 * https://www.elastic.co/de/elasticsearch/
 
+[Trend comparing above tools](https://trends.google.com/trends/explore?date=all&q=%2Fm%2F02qd9s1,%2Fm%2F0h64sgb)
+
 ### High level
 
 * http://manifoldcf.apache.org/en_US/index.html#What+Is+Apache+ManifoldCF%3F
