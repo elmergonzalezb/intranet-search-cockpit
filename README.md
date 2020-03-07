@@ -43,6 +43,10 @@ Examples:
 * [Staffbase](//staffbase.com)
 * [Stackoverflow Team](https://stackoverflow.com/teams)
 
+## Goals
+
+* Provide **one** search interface for several content repos.
+
 ## Stretch Goals
 
 * Extend knowledge of a content repository. Example: In the coperate intranet the definition of [Scrum Master at Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development)#Scrum_master) can get extended by local annotations. These local annotations provide additional details how to apply the general (world wide) knowledge to the particular (missing a matching term) inside the company.
