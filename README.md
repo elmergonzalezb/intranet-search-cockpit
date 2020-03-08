@@ -82,3 +82,6 @@ Good search results don't fall from the sky. You need a way to point the non-int
 
 * [Github Feeds API](https://developer.github.com/v3/activity/feeds/)
 
+### Stackoverflow Teams
+
+* [StackExchange RSS Feeds docs](https://meta.stackexchange.com/tags/rss/info)
