@@ -72,3 +72,13 @@ Good search results don't fall from the sky. You need a way to point the non-int
 * [Content Management Interoperability Services](https://en.wikipedia.org/wiki/Content_Management_Interoperability_Services) (looks dated: [Trend](https://trends.google.com/trends/explore?date=all&q=%2Fm%2F04lgyys))
 
 
+## Content Repos
+
+### Confluence
+
+* [RSS Feed docs](https://confluence.atlassian.com/confcloud/subscribe-to-pre-specified-rss-feeds-724765361.html)
+
+### Github
+
+* [Github Feeds API](https://developer.github.com/v3/activity/feeds/)
+
