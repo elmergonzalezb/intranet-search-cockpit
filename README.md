@@ -32,6 +32,8 @@ Internet search is easy: Just use ecosia or bing. But coperate Intranet search i
 
 [Stackoverflow Tag-trend of above tools](http://sotagtrends.com/?tags=solr+elasticsearch)
 
+Detecting which pages have changend: [RSS](https://en.wikipedia.org/wiki/RSS)
+
 ### High level
 
 * [manifoldcf](http://manifoldcf.apache.org/en_US/index.html#What+Is+Apache+ManifoldCF%3F)
