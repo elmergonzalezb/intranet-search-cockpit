@@ -91,6 +91,6 @@ Good search results don't fall from the sky. You need a way to point the non-int
 
 * [StackExchange RSS Feeds docs](https://meta.stackexchange.com/tags/rss/info)
 
-### Different Name?
+### Change Name?
 
 "Intranet" is dead. We don't own servers, we don't run a corporate network. It is about searching corporate Saas pages. Alternatives: multi-saas-search, SaaSRank, SaaS-Umbrella, ...
