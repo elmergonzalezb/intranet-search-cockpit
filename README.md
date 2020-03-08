@@ -68,6 +68,7 @@ Good search results don't fall from the sky. You need a way to point the non-int
 ## Related
 
 * [Content Management Interoperability Services](https://en.wikipedia.org/wiki/Content_Management_Interoperability_Services) (looks dated: [Trend](https://trends.google.com/trends/explore?date=all&q=%2Fm%2F04lgyys))
+* [invotra enterprise search](https://invotra.com/blogs/invotra-search-providing-you-complete-control/)
 
 ## ETL
 
