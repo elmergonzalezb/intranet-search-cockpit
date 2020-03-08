@@ -90,6 +90,7 @@ Good search results don't fall from the sky. You need a way to point the non-int
 ### Github
 
 * [Github Feeds API](https://developer.github.com/v3/activity/feeds/)
+* [PyGithub Python Client](https://github.com/PyGithub/PyGithub)
 
 ### Stackoverflow Teams
 
