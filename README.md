@@ -36,10 +36,8 @@ Detecting which pages have changend: [RSS](https://en.wikipedia.org/wiki/RSS)
 
 ### High level
 
-* [manifoldcf](http://manifoldcf.apache.org/en_US/index.html#What+Is+Apache+ManifoldCF%3F)
+* [manifoldcf](http://manifoldcf.apache.org/en_US/index.html#What+Is+Apache+ManifoldCF%3F) looks dated.
 * [opensemanticsearch](https://www.opensemanticsearch.org/) Community project or one-man-show? [github contributors](https://github.com/opensemanticsearch/open-semantic-etl/graphs/contributors) [Contact](https://opensemanticsearch.org/contact)
-
-Both look dated.
 
 ## List of Content Repositories
 
