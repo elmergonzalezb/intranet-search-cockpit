@@ -98,3 +98,10 @@ Good search results don't fall from the sky. You need a way to point the non-int
 ### Change Name?
 
 "Intranet" is dead. We don't own servers, we don't run a corporate network. It is about searching corporate Saas pages. Alternatives: multi-saas-search, SaaSRank, SaaS-Umbrella, ...
+
+## Later
+
+### Platform
+
+Make it easy to add new SaaS sites and authentication methods. Add "platform" to the name.
+
