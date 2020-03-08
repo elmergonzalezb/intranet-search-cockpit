@@ -71,6 +71,11 @@ Good search results don't fall from the sky. You need a way to point the non-int
 
 * [Content Management Interoperability Services](https://en.wikipedia.org/wiki/Content_Management_Interoperability_Services) (looks dated: [Trend](https://trends.google.com/trends/explore?date=all&q=%2Fm%2F04lgyys))
 
+## ETL
+
+[ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load): In computing, extract, transform, load is the general procedure of copying data from one or more sources into a destination system which represents the data differently from the source(s) or in a different context than the source(s). 
+
+* [ETL of opensematic](https://opensemanticsearch.org/dev/enhancer)
 
 ## Content Repos
 
