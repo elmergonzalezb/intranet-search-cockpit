@@ -78,7 +78,7 @@ Good search results don't fall from the sky. You need a way to point the non-int
 * [ETL of opensematic](https://opensemanticsearch.org/dev/enhancer)
 
 ## Authentication Libs
-* [libsaas (Python)](http://ducksboard.github.io/libsaas/)
+* [libsaas (Python)](http://ducksboard.github.io/libsaas/) unmaintained.
 
 
 ## Content Repos
