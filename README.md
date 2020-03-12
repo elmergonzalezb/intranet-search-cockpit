@@ -2,6 +2,14 @@
 
 Intranet search cockpit. Coperate Intranet search is not plug-and-play.
 
+## State:
+
+Current state is "withdrawn". No coding will get done. Docs still get updates.
+
+Background: It makes more sense to create new content in one system. Maybe later other sytems get integrated.
+
+For the next days I will pratice this pattern: [IUA Channel](https://github.com/guettli/IUA-Channel)
+
 ## Introducion
 
 [Content Repository](https://en.wikipedia.org/wiki/Content_repository): A content repository or content store is a database of digital content with an associated set of data management, search and access methods allowing application-independent access to the content, rather like a digital library, but with the ability to store and modify content in addition to searching and retrieving. 
